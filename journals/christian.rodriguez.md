@@ -54,3 +54,6 @@ Today I spent most of the time writing the read. me for our group and running th
 
 03/08/2923:
 We finished styling for today and focus on adding graphics and finished fixing the footer. We added images and vectors to our pages to not make it bare and fixed the footer for all the pages. We ran the backend linter one late time and reformatted the code. The biggest thing we accomplished was the compilation of the feature page in the afternoon. We formatted the file, added images, and styled it all in one day.
+
+03/08/2023:
+Today we decided to try to deploy our website. It went pretty badly. We struggled hard with setting up the docker file to prep for deployment then got further confused by interacting with cap rover. From there we had an error where any endpoints that involved user data didn’t work such as the favorites. Once we resolved the issues(a single slash) we proceeded to deal with broken images and fixed them later. It’s still a mess but it works?

@@ -1,3 +1,6 @@
+Mar 9 2023
+Today we deployed our app. It was a tiresome journey. We used CapRover to deploy and sought help from peers, SEIRs, and Riley. In the end we got to a happy place with deployment. We installed ESLint to format all our js files and formatted our pages accordingly.
+
 Mar 8 2023
 Today I found out that the setTimeout function interferes with the carousel's behavior. The timeout is set up for the loader to appear for 2 seconds so I've tried moving the timeout but haven't had success. I noticed by setting a time on the carousel itself will make it change but I have to click on the carousel to initiate the transitions. We added graphics on all our pages and finished our feature page. Fixed our logo so if your signed in it directs you to the home page if not to the feature page. We merged our branch to main branch.
 
