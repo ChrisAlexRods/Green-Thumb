@@ -79,3 +79,7 @@
     Added a lot of visuals to amost all the components from FreePik and remove.bg
     Afterwards, the features/landing page is created by taking screenshots of the components to "advertise" our features for potential new
     users. Everything is merged into main branch and should be ready for deployment.
+
+
+03/10/2023:
+    Went into deployment step today and created the necessary files to get it launching with caprover and gitlab. We had to change a lot of files and their imports because of the syntax required by the deployment pipeline. Localhost is still working fine without errors. However, the deployment site has many 404 errors in the console log despite being able to display all the required data.
