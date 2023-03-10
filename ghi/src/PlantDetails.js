@@ -71,7 +71,7 @@ function PlantDetails () {
         targetFavorite = favorite
       }
     }
-    await fetch(`${process.env.REACT_APP_ACCOUNTS_HOST}/api/account/favorites/${targetFavorite[0]}`, {
+    await fetch(`${process.env.REACT_APP_ACCOUNTS_HOST}/api/account/favorites/${targetFavorite[0]}/`, {
       method: 'DELETE',
       headers: {
         Authorization: `Bearer ${token}`
