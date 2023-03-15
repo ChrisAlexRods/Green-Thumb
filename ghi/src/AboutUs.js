@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin, faGitlab } from '@fortawesome/free-brands-svg-icons'
 
-function AboutUsPage() {
-    return (
+function AboutUsPage () {
+  return (
         <div className="container pt-5">
 
             <div className="row">
@@ -154,7 +154,7 @@ function AboutUsPage() {
             </div>
 
         </div>
-    )
+  )
 }
 
 export default AboutUsPage
