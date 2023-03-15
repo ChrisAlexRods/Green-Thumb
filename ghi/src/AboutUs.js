@@ -147,7 +147,7 @@ function AboutUsPage () {
                     </div>
                     <div className="footer-message">
                         <p>Connect with us! 🤗</p>
-                        <p>Repo Link Here: <Link to="https://gitlab.com/megann1006/module3-project-gamma" target="_blank">Click me!</Link></p>
+                        <p>Repo Link Here: <Link to="https://gitlab.com/megann1006/green-thumb" target="_blank">Click me!</Link></p>
                     </div>
 
                 </div>

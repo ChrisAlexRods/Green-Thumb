@@ -52,13 +52,13 @@ To use the application the way it was intended make sure to follow the steps bel
 8. Run `docker compose build`
 9. Run `docker compose up`
 
-To do migrations: bash into into module3-project-gamma-db-1 then migrate
+To do migrations: bash into into green-thumb-db-1 then migrate
 
-1. run `docker exec -it module3-project-gamma-api-1 bash`
+1. run `docker exec -it green-thumb-api-1 bash`
 2. run `python -m migrations up`
 
 To see database, in a separate terminal tab
 
-1. run `docker exec -it module3-project-gamma-db-1 bash`
+1. run `docker exec -it green-thumb-db-1 bash`
 2. run `psql -h localhost -U plants_user plants_db`
 3. run `\d accounts`
