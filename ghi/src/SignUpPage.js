@@ -65,7 +65,7 @@ const SignUpPage = () => {
                                 <input
                                     onChange={handleFormChange}
                                     placeholder="..."
-                                    type="text"
+                                    type="password"
                                     name="password"
                                     className="form-control"
                                 />
@@ -75,7 +75,7 @@ const SignUpPage = () => {
                                 <input
                                     onChange={handleConfirmPasswordChange}
                                     placeholder="..."
-                                    type="text"
+                                    type="password"
                                     name="confirm-password"
                                     className="form-control"
                                 />

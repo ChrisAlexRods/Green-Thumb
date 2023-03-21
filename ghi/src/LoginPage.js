@@ -47,7 +47,7 @@ const LoginPage = () => {
                 <input
                   onChange={handleFormChange}
                   placeholder="..."
-                  type="text"
+                  type="password"
                   name="password"
                   className="form-control"
                 />
