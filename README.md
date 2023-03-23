@@ -1,5 +1,7 @@
 # Green Thumb
 
+Deployed link: https://megann1006.gitlab.io/module3-project-gamma/
+
 - Matthew Sun
 - Megan Rodriguez
 - Ciana Hoggard
